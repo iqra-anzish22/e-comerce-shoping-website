@@ -15,7 +15,7 @@ import { FaGithub } from "react-icons/fa6";
 
 
 
-export default function Home() {
+const Home = () => {
   return (
     <main>
       <title>IQra Waqas Portfolio</title>
@@ -1021,4 +1021,6 @@ export default function Home() {
       </footer>
     </main>
   );
-}
+};
+
+export default Home;
