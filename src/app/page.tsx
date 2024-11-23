@@ -11,7 +11,9 @@ import { FaCss3Alt } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
 
 import { FaGithub } from "react-icons/fa6";
-import path from "path";
+
+
+
 
 export default function Home() {
   return (
@@ -92,11 +94,11 @@ export default function Home() {
             </div>
           </div>
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-            <img
+          <img
               className="object-cover object-center rounded h-80 w-80"
               alt="hero"
               src="https://i.pinimg.com/736x/14/9f/45/149f45ca6770531ca80d73e838e73844.jpg"
-            />
+            /> 
           </div>
         </div>
       </section>
