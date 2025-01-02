@@ -2,7 +2,7 @@ import React from "react";
 
 const floatingImage = () => {
   return (
-    <section className="container mx-auto py-10 flex flex-col md:flex-row items-center">
+    <section className="container mx-auto py-10 flex flex-col md:flex-row items-center bg-gradient-to-r from-indigo-500 via-sky-500 to-emerald-500">
       <div className="md:w-1/2 md:pr-10">
         <h2 className="text-3xl font-bold mb-4 text-white">Mega Discounts on Latest Trends!</h2>
         <p className="text-white mb-4 ">Grab your favorites at unbeatable prices ,Shop now and save big with exclusive offers!"</p>

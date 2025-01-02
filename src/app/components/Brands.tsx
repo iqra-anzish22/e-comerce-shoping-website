@@ -12,7 +12,7 @@ const productCardGrid = () => {
   ];
 
   return (
-    <div className=" relative text-center p-10">
+    <div className=" relative text-center p-10 bg-gradient-to-r from-indigo-500 via-sky-500 to-emerald-500">
       <div
         className="absolute inset-0"
         style={{

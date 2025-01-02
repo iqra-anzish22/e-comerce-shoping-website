@@ -3,7 +3,7 @@ import React from "react";
 export default function Progresser() {
   return (
     <div>
-      <div className="flex items-start max-w-screen-lg w-full mx-auto mt-10">
+      <div className="flex items-start max-w-screen-lg w-full mx-auto mt-10 bg-gradient-to-r from-indigo-500 via-sky-500 to-emerald-500">
         <div className="w-full">
           <div className="flex items-center w-full">
             <div className="w-8 h-8 shrink-0 mx-[-1px] bg-amber-400 p-1.5 flex items-center justify-center rounded-full">

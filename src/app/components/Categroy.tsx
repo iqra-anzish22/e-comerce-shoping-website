@@ -38,7 +38,7 @@ const products = [
 ];
 export default function Product() {
   return (
-    <div className="p-1 flex flex-wrap items-center justify-center mb-6">
+    <div className="p-1 flex flex-wrap items-center justify-center mb-6  bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500">
       {products.map((product) => (
         <div
           key={product.id}

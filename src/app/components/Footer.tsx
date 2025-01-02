@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <div>
-   <footer className='flex flex-col space-y-10 justify-center m-10 mb-0'>
+   <footer className='flex flex-col space-y-10 justify-center m-10 mb-0 bg-gradient-to-r from-indigo-500 via-pink-500 to-emerald-500 '>
     <nav className=' flex  justify-center flex-wrap gap-6 text-slate-500 font-medium bg-gradient-to-r form-black to-slate-500'>
 <a className='hover:text-cyan-400 text-white text-lg'href='#'>Home</a>
 <a className='hover:text-cyan-400 text-white text-lg'href='#'>about</a>
