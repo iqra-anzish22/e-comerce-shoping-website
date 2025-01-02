@@ -11,6 +11,7 @@ import Categroy from"./components/Categroy";
 import Progresser from "./components/Progresser";
  import Brands from "../app/components/Brands";
 import Reservation from "./components/Reservation";
+import Items from "./components/items";
 
 export default function App() {
   return (
@@ -30,6 +31,7 @@ export default function App() {
 <Progresser/>
 
 <Brands/>
+<Items/>
 <Offer/>
 <Card/>
 <Reservation/>
