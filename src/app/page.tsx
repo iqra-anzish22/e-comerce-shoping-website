@@ -10,7 +10,6 @@ import Card from "./components/Card";
 
 import Reservation from "./components/Reservation";
 import Footer from "./components/Footer";
-import { ImTab } from "react-icons/im";
 import Items from "./components/items";
 
 function page() {
@@ -18,15 +17,17 @@ function page() {
     <div>
       <Navbar />
       <Banner />
-      <Carousel />
       <Categroy />
+      <Carousel />
+  
 
-      <Items />
+      
 
-      <Progresser />
+      <Progresser/>
       <Brands />
       <Offer />
       <Card />
+      <Items/>
       <Reservation />
       <Footer />
     </div>

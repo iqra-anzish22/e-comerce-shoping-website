@@ -4,38 +4,38 @@ export default function handler(req, res) {
             id: 1,
             name:" Baby Girls Dresses",
             price: 4500,
-            image:"/baby.webp"
+            image:"https://shopatziva.com/cdn/shop/files/DSC04148.jpg?v=1715158696&width=600"
         },
 
         {
             id: 2 ,
             name:"Baba Boy Dresses",
             price: 4500,
-            image:"/boy.jpg"
+            image:"https://www.nihalfashions.com/media/catalog/product/cache/441933f201159ac6aa81e856d506a0a3/b/l/black-imported-boys-indo-western-nkk-805.jpg"
         },
         {
             id: 3,
             name:"Ladies Bag",
             price: 850,
-            image:"/bag.webp"
+            image:"https://m.media-amazon.com/images/I/61GpT8+nFXL._AC_SL1008_.jpg"
         },
         {
             id: 4,
             name:"Mens Items",
             price: 7500,
-            image:"men.webp"
+            image:"https://cdn.shopify.com/s/files/1/0075/3929/4305/files/EASTER_OUTFIT_045-1167x1201-f9b9207_350x350.jpg?v=1647313755"
         },
         {
             id: 5,
             name:"Kids Shoes",
             price: 3000,
-            image:"/kid.webp"
+            image:"https://shoezero.com/cdn/shop/articles/stylish_kids_shoes_with_background_playground.webp?v=1694215917&width=2048"
         },
         {
             id: 6,
             name:"Shoes",
             price: 5000,
-            image:"/shoes.jpg"
+            image:"https://baccabucci.com/cdn/shop/products/MG_5242.jpg?v=1633514122"
         },
     ];
 
